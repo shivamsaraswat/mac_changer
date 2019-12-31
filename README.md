@@ -7,8 +7,8 @@ Usage: mac_changer.py [options]
 
 Options:
 
-  -h, --help            show this help message and exit
-  -i INTERFACE, --interface=INTERFACE
+    -h, --help            show this help message and exit
+    -i INTERFACE, --interface=INTERFACE
                         Interface to change its MAC Address
-  -m NEW_MAC, --mac=NEW_MAC
+    -m NEW_MAC, --mac=NEW_MAC
                         New MAC Address
