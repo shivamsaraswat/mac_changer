@@ -9,6 +9,6 @@ Options:
 
     -h, --help            show this help message and exit
     -i INTERFACE, --interface=INTERFACE
-                        Interface to change its MAC Address
+                          Interface to change its MAC Address
     -m NEW_MAC, --mac=NEW_MAC
-                        New MAC Address
+                          New MAC Address
