@@ -1,4 +1,4 @@
-# mac_changer.py
+# MAC Changer
 ## Supports only Python 2 and applicable for Linux only
 
 Description: This program is used to modify the MAC Address of the desired network interface (MAC Address Changer)
