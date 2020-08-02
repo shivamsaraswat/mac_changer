@@ -1,4 +1,4 @@
-"""Description: This program is used to modify the MAC Address of the desired network interface (MAC Address Changer)"""
+"""Description: This program is used to securely modify the MAC Address of the desired network interface (MAC Address Changer)"""
 print(__doc__+"\n")
 
 import optparse  # OptParse is a module introduced in Python that makes it easy to write command line tools
